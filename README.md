@@ -11,6 +11,8 @@ This is a repositpry that contains my solutions to the tasks presented for the c
 
 ## ML Training Pipeline Diagrams
 
+Inspired by: https://www.kaggle.com/sandyvarma/covid-19-bert-mesh-enabled-knowledge-graph/log
+
 ![](read_me_resources/c-19_tf_training_pipeline.png)
 
 ## ML Prediction Pipeline Diagram

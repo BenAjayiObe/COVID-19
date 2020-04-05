@@ -13,4 +13,8 @@ This is a repositpry that contains my solutions to the tasks presented for the c
 
 ![](read_me_resources/c-19_tf_training_pipeline.png)
 
+## ML Prediction Pipeline Diagram
+
+![](read_me_resources/c-19_tf_pred_pipeline.png)
+
 
